@@ -1,0 +1,64 @@
+{
+  "students": [
+    {
+      "first_name": "mayssa",
+      "last_name": "elgarsi",
+      "email": "mayssaelgarsi@gmail.com",
+      "phone": "23456788",
+      "address": "nabeul",
+      "birthdate": "1998-07-23",
+      "courses": [
+        {
+          "course_name": "history",
+          "grade": "12"
+        }
+      ],
+      "id": 3
+    },
+    {
+      "first_name": "hanin",
+      "last_name": "amraa",
+      "email": "haninamra@gmail.com",
+      "phone": "23456789",
+      "address": "gafsa",
+      "birthdate": "2002-04-12",
+      "courses": [
+        {
+          "course_name": "math",
+          "grade": "12"
+        }
+      ],
+      "id": 4
+    },
+    {
+      "first_name": "ghalia",
+      "last_name": "ballalouna",
+      "email": "ghalia@gmail.com",
+      "phone": "34567890",
+      "address": "nabeul",
+      "birthdate": "2002-04-12",
+      "courses": [
+        {
+          "course_name": "anglais",
+          "grade": "20"
+        }
+      ],
+      "id": 6
+    },
+    {
+      "first_name": "youssef",
+      "last_name": "garsi",
+      "email": "youssefgarsi@gmail.com",
+      "phone": "22345678",
+      "address": "nabeul",
+      "birthdate": "2005-03-31",
+      "courses": [
+        {
+          "course_name": "math",
+          "grade": "20"
+        }
+      ],
+      "id": 7
+    }
+  ]
+}
